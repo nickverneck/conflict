@@ -1,2 +1,2 @@
 # conflict
-just an exercise with to get familiar with git
+## just an exercise with to get familiar with git
